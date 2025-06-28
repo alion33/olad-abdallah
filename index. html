@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>إمارة أولاد عبد الله</title>
+  <style>
+    body { font-family: 'Amiri', serif; text-align: center; background: #f6f3ec; padding: 50px; }
+    h1 { color: #2c3e50; }
+    p  { color: #7f8c8d; }
+  </style>
+</head>
+<body>
+  <h1>👑 إمارة أولاد عبد الله</h1>
+  <p>مرحبًا بكم في صفحة تراثية فنية باستخدام GitHub Pages</p>
+</body>
+</html>
